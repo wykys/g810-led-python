@@ -1,0 +1,144 @@
+Logo = '660066'
+Indicators = '0096b4'
+Multimedia = '009200'
+Command = 'FF0000'
+Text = '00CCFF'
+Functions = 'CC00CC'
+Numbers = 'FFFF00'
+Move = '00FF00'
+
+
+
+Num = Indicators
+Caps = Indicators
+Scroll = Indicators
+
+
+Game = 'ff0000'
+Backlight = 'FFFFFF'
+
+
+Mute = Multimedia
+Play = Multimedia
+Stop = Multimedia
+Prev = Multimedia
+Next = Multimedia
+
+
+Esc = Command
+BackSpace = Command
+Enter = Command
+PrintScreen = Command
+ScrollLock = Command
+PauseBreak = Command
+Insert = Command
+Delete = Command
+Home = Command
+End = Command
+PageUp = Command
+PageDown = Command
+
+
+Top = Move
+Left = Move
+Bottom = Move
+Right = Move
+
+
+F1 = Functions
+F2 = Functions
+F3 = Functions
+F4 = Functions
+F5 = Functions
+F6 = Functions
+F7 = Functions
+F8 = Functions
+F9 = Functions
+F10 = Functions
+F11 = Functions
+F12 = Functions
+
+
+NumLock = Command
+Num0 = Numbers
+Num1 = Numbers
+Num2 = Numbers
+Num3 = Numbers
+Num4 = Numbers
+Num5 = Numbers
+Num6 = Numbers
+Num7 = Numbers
+Num8 = Numbers
+Num9 = Numbers
+Num0 = Numbers
+NumDot = Text
+NumSlash = Text
+NumAsterisk = Text
+NumMinus = Text
+NumPlus = Text
+NumEnter = Command
+
+
+CapsLock = Command
+ShiftL = Command
+CtrlL = Command
+MetaL = Move
+AltL = Command
+AltR = Command
+MetaR = Move
+Menu = Command
+CtrlR = Command
+ShiftR = Command
+
+
+Degre = Text
+n1 = Numbers
+n2 = Numbers
+n3 = Numbers
+n4 = Numbers
+n5 = Numbers
+n6 = Numbers
+n7 = Numbers
+n8 = Numbers
+n9 = Numbers
+n0 = Numbers
+apostrophe = Text
+tidle = Text
+tab = Command
+q = Text
+w = Text
+e = Text
+r = Text
+t = Text
+z = Text
+u = Text
+i = Text
+o = Text
+p = Text
+openbracket = Text
+closebracket = Text
+a = Text
+s = Text
+d = Text
+f = Text
+g = Text
+h = Text
+j = Text
+k = Text
+l = Text
+eaigu = Text
+agrave = Text
+dollar = Text
+backslash = Text
+y = Text
+x = Text
+c = Text
+v = Text
+b = Text
+n = Text
+m = Text
+comma = Text
+dot = Text
+minus = Text
+Space = Text
+
